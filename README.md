@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Aldair André and I'm a FullStack.</br>
-Doing my degree in Computer Engineering.
-Currently I'm learning everything that can increase my knowledge in this big world of programming.</br>
+Doing my degree in Computer Engineering.</br>
+Writing code to survive.</br>
 
 ### Skills
 
