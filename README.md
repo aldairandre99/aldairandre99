@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Aldair André and I'm a FullStack.</br>
+FullStack.</br>
 Doing my degree in Computer Engineering.</br>
 Writing code to survive.</br>
 
